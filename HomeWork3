@@ -1,0 +1,17 @@
+Python 3.12.4 (v3.12.4:8e8a4baf65, Jun  6 2024, 17:33:18) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> "w3esource"[:2:1]
+'w3'
+>>> "w3"*2
+'w3w3'
+>>> "w"[::1]
+'w'
+>>> "w"[1::1]
+''
+>>> print("'abc  xyz'")
+'abc  xyz'
+>>> "Restart".replace("r","$")
+'Resta$t'
+text="welcom"
+print(len(text))
+6
